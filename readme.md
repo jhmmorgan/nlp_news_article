@@ -1,4 +1,5 @@
-# Natural Langugage Processing - Summarising News Articles, warn user if it contains hate speech or fake news.
+# Natural Langugage Processing
+## Summarising News Articles, warning users if the article contains hate speech or fake news.
 
 **James Morgan (jhmmorgan)**
 

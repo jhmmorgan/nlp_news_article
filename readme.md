@@ -18,7 +18,7 @@ This project has been split into four parts showcasing custom classes and traine
  - [Part 1 - Fake News and Hate Speech](https://github.com/jhmmorgan/nlp_news_article/blob/main/NLP%201%20-%20Fake%20and%20Hate%20News.ipynb)
  - [Part 2 - Summarising articles](https://github.com/jhmmorgan/nlp_news_article/blob/main/NLP%202%20-%20Summarising%20articles.ipynb)
  - [Part 3 - Web Scraping](https://github.com/jhmmorgan/nlp_news_article/blob/main/NLP%203%20-%20Web%20Scraping.ipynb)
- - [Part 4 - Bring it all together](https://github.com/jhmmorgan/nlp_news_article/blob/main/NLP%204%20-%20Final%20Outcome.ipynb)
+ - [Part 4 - Bringing it all together](https://github.com/jhmmorgan/nlp_news_article/blob/main/NLP%204%20-%20Final%20Outcome.ipynb)
 
 ---
 
